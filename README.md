@@ -15,11 +15,11 @@
 
   - Shelff([Mobile](https://github.com/samvvw/shelff-app) [Back-End](https://github.com/samvvw/shelff-server)): Mobile App to organize and track the shelf life of your food inventory 
     - Build with React Native with Expo for mobile, Node.js with TypeScript for Back-End
-    - Worked as a Front-End Developer, collaborating with three fellow developers, and four designers (School Project / Jan-Apr 2022)
+    - Worked as a Front-End Developer, collaborating with three fellow developers, and three designers (School Project / Jan-Apr 2022)
     
   - [Qafa](https://github.com/samvvw/coffee-connect): Web App to connect local specialty coffee farmers with coffee consumers globally
     - Build with MERN stack
-    - Worked as a Full-Stack Developer, collaborating with three fellow developers, and four designers (School Project / Sep-Dec 2021)
+    - Worked as a Full-Stack Developer, collaborating with three fellow developers, and three designers (School Project / Sep-Dec 2021)
 
 <h2>Connect with me:</h2>
 
