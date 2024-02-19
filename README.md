@@ -3,7 +3,7 @@
 
 :bust_in_silhouette: Full-Stack Developer
 
-:computer: JavaScript, TypeScript, Python, React.js React Native, Next.js, Flask, Node.js, Express.js, AWS, MySQL, MongoDB
+:computer: JavaScript, TypeScript, Python, React.js, React Native, Next.js, Flask, Node.js, Express.js, AWS, MySQL, MongoDB
 
 :round_pushpin: Vancouver, BC, Canada
 
