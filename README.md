@@ -9,6 +9,8 @@
 
 :handshake: [LinkedIn](https://www.linkedin.com/in/megumi-takashima)
 
+:paperclip: [Resume](https://github.com/takam3g/expense-tracker/files/15409863/Megumi_Takashima_Resume.pdf)
+
 
 <h2>Projects:</h2>
 
