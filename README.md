@@ -27,15 +27,15 @@
   
 <b>Team</b>
   - [Fine Arts Graduation Exhibition](https://past.langarafinagradshow.com/2022): Website for Langara Fine Arts 2022 Graduation Exhibition
-    - Builed with Next.js and WordPress as a headless CMS
+    - Built with Next.js and WordPress as a headless CMS
     - Worked as a solo developer, collaborating with PM, Designer, and clients (Part-time work / Jan-Apr 2022)
 
   - Shelff([Mobile](https://github.com/samvvw/shelff-app) [Back-End](https://github.com/samvvw/shelff-server)): Mobile App to organize and track the shelf life of your food inventory 
-    - Build with React Native with Expo for mobile, Node.js with TypeScript for Back-End
+    - Built with React Native with Expo for mobile, Node.js with TypeScript for Back-End
     - Worked as a Front-End Developer, collaborating with three fellow developers, and three designers (School Project / Jan-Apr 2022)
     
   - [Qafa](https://github.com/samvvw/coffee-connect): Web App to connect local specialty coffee farmers with coffee consumers globally
-    - Build with MERN stack
+    - Built with MERN stack
     - Worked as a Full-Stack Developer, collaborating with three fellow developers, and three designers (School Project / Sep-Dec 2021)
    
 
