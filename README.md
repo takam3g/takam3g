@@ -41,18 +41,26 @@
 
 <h2>Work Experience:</h2>
 
-<b>Full Stack Developer</strong></b> - HealthQb Technologies, Inc (Apr 2022 - Dec 2023)
-  - Managed the entire lifecycle of web and mobile application development and maintenance, utilizing Python with Flask for the backend, React.js for the web frontend, and React Native with TypeScript for mobile.
-  - Identified product requirements, communicating with cross-functional teams to deliver new features on time.
-  - Planned system designs based on the project requirements and created tickets breaking them down to track and manage the sprints.
-  - Designed and implemented frontend API and backend API to facilitate seamless data exchange between systems.
-  - Evaluated and integrated Amplitude by creating small sample applications for comparison with Google Firebase Analytics, in order to monitor user activities within the mobile application.
-  - Implemented a password recovery system, handling user authentication and integrating email templates to enable self-service password resets.
-  - Integrated an external API, addressing data manipulation challenges with a flexible solution to accommodate variations in datasets from diverse wearables.
-  - Refactored the data storing method to accommodate large datasets, resulting in improved saving time and ensuring proper data storage. 
-  - Resolved instability issues in the onboarding flow in the mobile application, identifying the root cause and refactoring state management to enhance the overall user experience.
+<b>Full Stack Developer</strong></b> - HealthQb Technologies, Inc (Apr 2022 - Dec 2023)<br>
+Developed and maintained web and mobile applications that allow users to track and visualize their physical and mental conditions and suggest effective approaches to improve their well-being.
+- Defined product requirements and collaborated with cross-functional teams to align specifications and deadlines.
+- Planned system designs, created tickets, and managed sprints effectively.
+- Designed and implemented APIs for frontend-backend data exchange.
+- Integrated Amplitude for user activity monitoring after evaluating it against Google Firebase Analytics.
+- Implemented a password recovery system with user authentication and email template integration for self-service resets.
+- Developed flexible and scalable solution for integrating external APIs and managing diverse wearable datasets.
+- Investigated server downtime and data loss issues, identified inefficient data storage methods, and refactored them to improve reliability and performance.
+- Enhanced mobile app stability and user experience by improving state management.
+- Upgraded Expo SDK, updating dependencies, ensuring code compatibility, and resolving bugs.
 
-<b>Web Developer</strong></b> - Langara College (Jan 2022 - Apr 2022)
-  - Developed a headless WordPress website with Next.js within a compressed 3.5-month timeline, effectively managing the development schedule as the solo developer, and collaborating with project stakeholders.
-  - Introduced WPGraphQL, streamlining data fetching to enhance website performance and user experience for the graduation showcase project.
-  - Deployed frontend application on AWS EC2 with SSL encryption and managed processes using PM2 ensuring secure communication and reliability.
+<b>Web Developer</strong></b> - Langara College (Jan 2022 - Apr 2022)<br>
+Developed a headless WordPress website with Next.js for a graduation exhibition of the Fine Arts.
+- Delivered the project within a compressed 3.5-month timeline, effectively managing the development schedule.
+- Collaborated closely with project stakeholders to ensure the final product met all requirements and expectations.
+- Introduced WPGraphQL, streamlining data fetching to enhance website performance and user experience for the graduation showcase project.
+
+<b>Associate - FX & OTC Derivatives Settlement </strong></b> - Deutsche Bank Group Deutsche Knowledge Services Pte. Ltd (May 2014 - Nov 2020)<br>
+Handled settlement processes for FX and OTC Derivatives including client-facing tasks, and worked on many process automations/improvements as my side projects. 
+- Proactively identified and resolved issues early to prevent disruptions in the settlement process.
+- Streamlined repetitive manual processes using MS Excel VBA, achieving an average time savings of 90% and reducing human errors.
+- Enhanced team productivity by strategically delegating tasks based on individual strengths while managing a team of 5-6 people.
