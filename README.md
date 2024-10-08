@@ -5,7 +5,7 @@
 
 :computer: JavaScript, TypeScript, Python, React.js, React Native, Next.js, Flask, Node.js, Express.js, AWS, MySQL, MongoDB
 
-:round_pushpin: Vancouver BC / Edmonton AB, Canada
+:round_pushpin: Halifax NS, Canada
 
 :handshake: [LinkedIn](https://www.linkedin.com/in/megumi-takashima)
 
