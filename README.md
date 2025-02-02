@@ -14,7 +14,7 @@
 
 <h2>Projects:</h2>
 
-| [TODO APP](https://mytodo.xyz) (MERN stack) | [Langara Fine Arts Grad Exhibit](https://past.langarafinagradshow.com/2022) (Next.js) |
+| TODO APP (MERN stack) | [Langara Fine Arts Grad Exhibit](https://past.langarafinagradshow.com/2022) (Next.js) |
 |------|------|
 | <video src="https://github.com/takam3g/mern-todo-app/assets/84117994/b9122658-6f1d-4369-8a96-6e41cbb417d6"></video> | <video src="https://github.com/takam3g/mern-todo-app/assets/84117994/0a38c1e8-62ad-488a-8628-f05645bc6206"></vido> |
 
