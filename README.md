@@ -3,13 +3,13 @@
 
 :bust_in_silhouette: Full-Stack Developer
 
-:computer: JavaScript, TypeScript, Python / React.js, React Native / Flask / SQL (MySQL, PostgreSQL) / AWS
+:computer: JavaScript, TypeScript, Python, Excel VBA / React, React Native / Flask / SQL (PostgreSQL, MySQL) / AWS
 
 :round_pushpin: Halifax NS, Canada
 
 :handshake: [LinkedIn](https://www.linkedin.com/in/megumi-takashima)
 
-:paperclip: [Resume](https://github.com/user-attachments/files/24866450/Resume_Megum_Takashima.pdf)
+:paperclip: [Resume](https://github.com/user-attachments/files/25159013/Megumi_Takashima_Resume.pdf)
 
 
 <h2>Projects:</h2>
@@ -42,24 +42,19 @@
 <h2>Work Experience:</h2>
 
 <b>Frontend Focused Full Stack Developer</strong></b> - PRUM Co., Ltd. - Tokyo Japan (Full Remote) (Mar 2025 - Nov 2025)<br>
-Contributed to an enterprise business application, driving frontend implementation, collaborating on backend development, and coordinating project-level product tasks with stakeholders.
-- Contributed to the development of an enterprise business application for a global music equipment manufacturer, joining as a frontend-focused full stack engineer in a cross-functional team.
-- Took ownership of frontend design and implementation using React and TypeScript, focusing on consistency, reusability, and maintainable component architecture; conducted proof-of-concepts to
-evaluate libraries and technical approaches for new features.
-- Actively collaborated on API and backend design by reviewing OpenAPI specifications and backend implementations, proactively identifying gaps to reduce rework and improve overall development
-efficiency.
-- Following team changes, took over project-level product responsibilities including stakeholder communication, requirement clarification, and priority alignment, while also contributing to backend
-development using Ruby on Rails in a new tech stack.
+Contributed to a business application, driving frontend implementation, collaborating on backend development, and coordinating project-level product tasks with stakeholders.
+- Took ownership of frontend design and implementation for a business application for a global client using React and TypeScript, focusing on consistency, reusability, and maintainable component architecture; conducted proof-of-concepts to evaluate libraries and technical approaches for new features.
+- Proactively collaborated with backend developers to design frontend-friendly APIs, reviewing OpenAPI specifications to identify gaps early and reduce rework.
+- Following team restructuring, took on product-facing responsibilities including stakeholder communication, requirement clarification, and priority alignment, while contributing to backend development using Ruby on Rails.
 - Created frontend documentation to streamline knowledge transfer and support future team transitions.
 
 <b>Full Stack Developer</strong></b> - HealthQb Technologies, Inc - Vancouver BC (Apr 2022 - Dec 2023)<br>
 Developed and maintained web and mobile applications that allow users to track and visualize their physical and mental conditions and suggest effective approaches to improve their well-being.
 - Owned end-to-end development and maintenance of web and mobile applications using Python (Flask), React.js, and React Native with TypeScript.
-- Collaborated with cross-functional teams to define product requirements and deliver new features on schedule.
-- Designed system architecture and planned sprints by breaking down requirements into actionable tickets.
-- Designed and implemented backend APIs and integrated them into web and mobile clients to enable seamless data exchange.
-- Integrated a third-party wearable data API and implemented flexible data handling to support device-specific variations in data structures.
-- Improved system performance and user experience through data storage refactoring, authentication flow enhancements, and onboarding stability fixes.
+- Led system design and sprint planning by translating product requirements into technical architecture and actionable tickets.
+- Designed and implemented backend APIs and integrated a third-party wearable data API for flexible handling of device-specific data across web and mobile clients.
+- Refactored data storage, improved authentication flows, and stabilized onboarding to enhance system performance and reliability.
+- Documented and backed up the system to support potential future product restart during the shutdown phase.
 
 <b>Web Developer</strong></b> - Langara College - Vancouver BC (Jan 2022 - Apr 2022)<br>
 Developed a headless WordPress website with Next.js for a graduation exhibition of the Fine Arts.
@@ -68,5 +63,7 @@ Developed a headless WordPress website with Next.js for a graduation exhibition 
 - Introduced WPGraphQL, streamlining data fetching to enhance website performance and user experience for the graduation showcase project.
 
 <b>Associate - FX & OTC Derivatives Settlement </strong></b> - Deutsche Bank Group Deutsche Knowledge Services Pte. Ltd - Taguig Philippines (May 2014 - Nov 2020)<br>
-Handled settlement processes for FX and OTC Derivatives including client-facing tasks, and worked on many process automations/improvements as my side projects. 
-- Automated operational workflows using Excel VBA, reducing manual processing time by ~90% and minimizing human errors.
+Handled settlement processes for FX and OTC Derivatives including client-facing tasks, and initiated 10+ process improvements/automations anually. 
+- Led automation initiatives across multiple product teams (FX, Derivatives, Fixed Income, Equity), delivering 10+ workflow improvements annually using Excel VBA and advanced formulas.
+- Re-engineered end-to-end operational processes, reducing multi-hour or multi-day manual workflows to minute-level automated executions while improving accuracy and risk controls.
+- Designed maintainable, low technical debt automation solutions with clear documentation and change-friendly structures, enabling long-term adoption across APAC operations teams.
