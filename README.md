@@ -42,8 +42,8 @@
 <h2>Work Experience:</h2>
 
 <b>Frontend Focused Full Stack Developer</strong></b> - PRUM Co., Ltd. - Tokyo Japan (Full Remote) (Mar 2025 - Nov 2025)<br>
-Contributed to a business application, driving frontend implementation, collaborating on backend development, and coordinating project-level product tasks with stakeholders.
-- Took ownership of frontend design and implementation for a business application for a global client using React and TypeScript, focusing on consistency, reusability, and maintainable component architecture; conducted proof-of-concepts to evaluate libraries and technical approaches for new features.
+Contributed to an enterprise application, driving frontend implementation, collaborating on backend development, and coordinating project-level product tasks with stakeholders.
+- Took ownership of frontend design and implementation for an enterprise application for a global client using React and TypeScript, focusing on consistency, reusability, and maintainable component architecture; conducted proof-of-concepts to evaluate libraries and technical approaches for new features.
 - Proactively collaborated with backend developers to design frontend-friendly APIs, reviewing OpenAPI specifications to identify gaps early and reduce rework.
 - Following team restructuring, took on product-facing responsibilities including stakeholder communication, requirement clarification, and priority alignment, while contributing to backend development using Ruby on Rails.
 - Created frontend documentation to streamline knowledge transfer and support future team transitions.
