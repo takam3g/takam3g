@@ -9,7 +9,7 @@
 
 :handshake: [LinkedIn](https://www.linkedin.com/in/megumi-takashima)
 
-:paperclip: [Resume](https://github.com/user-attachments/files/25159013/Megumi_Takashima_Resume.pdf)
+:paperclip: [Resume](https://github.com/user-attachments/files/25193364/Megumi_Takashima_Resume.pdf)
 
 
 <h2>Projects:</h2>
@@ -44,7 +44,7 @@
 <b>Frontend Focused Full Stack Developer</strong></b> - PRUM Co., Ltd. - Tokyo Japan (Full Remote) (Mar 2025 - Nov 2025)<br>
 Contributed to an enterprise application, driving frontend implementation, collaborating on backend development, and coordinating project-level product tasks with stakeholders.
 - Took ownership of frontend design and implementation for an enterprise application for a global client using React and TypeScript, focusing on consistency, reusability, and maintainable component architecture; conducted proof-of-concepts to evaluate libraries and technical approaches for new features.
-- Proactively collaborated with backend developers to design frontend-friendly APIs, reviewing OpenAPI specifications to identify gaps early and reduce rework.
+- Conducted code and API design reviews with the frontend and backend developers, and aligned specifications with the product owner and client, improving code quality and minimizing rework.
 - Following team restructuring, took on product-facing responsibilities including stakeholder communication, requirement clarification, and priority alignment, while contributing to backend development using Ruby on Rails.
 - Created frontend documentation to streamline knowledge transfer and support future team transitions.
 
